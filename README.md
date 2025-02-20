@@ -59,7 +59,7 @@ pytest tests/
 
 A saída esperada será similar a esta:
 
-![teste pytest tests/](img/image.png)
+![Teste](img/enviandoTeste.png)
 
 ---
 
@@ -67,10 +67,10 @@ A saída esperada será similar a esta:
 
 Aqui está a configuração do Supabase para referência:
 
-![Supabase](img/image-1.png)
+![Supabase](img/Supabase.png)
 
 #### Se quiser ver os detalhes:
 
 pytest -v tests/
 
-![teste pytest -v tests/](img/image-2.png)
+![Teste detalhado](img/testeComDetalhe.png)

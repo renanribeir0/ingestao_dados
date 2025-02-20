@@ -4,7 +4,7 @@ from ingestao.exceptions import SupabaseError
 
 def test_inserir_cliente():
     # Testa a inserção de um cliente válido
-    response = inserir_cliente('João', 'joao@example.com')
+    response = inserir_cliente('Renan', 'renan@example.com')
     assert response is not None
     # Verifica se a resposta contém dados inseridos
     assert isinstance(response, list) and len(response) > 0
