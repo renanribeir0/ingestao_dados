@@ -11,7 +11,7 @@ cd Ingestao-de-Dados
 Em seguida, crie e ative o ambiente virtual:
 ```sh
 python -m venv venv
-source venv/bin/activate  # No Windows, use venv\Scripts\activate
+source venv/bin/activate  
 ```
 
 Depois, instale as dependências:
